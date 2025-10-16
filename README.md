@@ -1,10 +1,10 @@
-# 🤖 AI-PDF-CHATBOT
+# AI-PDF-CHATBOT
 
 An interactive chatbot that can **read, understand, and answer questions** from PDF documents using **Natural Language Processing (NLP)**.
 
 ---
 
-## 🚀 Features
+## Features
 - Upload and extract text from PDF files
 - Ask natural language questions about the content
 - Uses NLP models to generate accurate, context-aware answers
@@ -12,7 +12,7 @@ An interactive chatbot that can **read, understand, and answer questions** from 
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 - **Python**
 - **Streamlit / Flask (for UI)**
 - **LangChain / PyPDF2 / pdfplumber**
@@ -20,7 +20,7 @@ An interactive chatbot that can **read, understand, and answer questions** from 
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 1. Upload a PDF file.
 2. The system extracts and processes the text.
 3. Ask any question related to the document.
@@ -28,7 +28,7 @@ An interactive chatbot that can **read, understand, and answer questions** from 
 
 ---
 
-## 🖥️ Installation
+## Installation
 
 ```bash
 # Clone this repository
